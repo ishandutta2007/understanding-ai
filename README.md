@@ -46,3 +46,10 @@ For convenience of searching the notes on paper
 - [Convolution Sequence to Sequence Learning](https://github.com/flrngel/understanding-ai/issues/3)
 - [Bi-Directional Block Self-Attention for fast and memory-efficient sequence modeling](https://github.com/flrngel/understanding-ai/issues/2)
 - [Convolution Sequence to Sequence Learning](https://github.com/flrngel/understanding-ai/issues/1)
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
